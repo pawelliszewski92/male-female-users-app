@@ -4,145 +4,169 @@
       "id": 3,
       "name": "Ilona",
       "surname": "Michalska",
-      "pesel": "79102311385"
+      "pesel": "79102311385",
+      "avatar": "https: //encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkl4-OQlEmy7_BC2YchXW--5BxKhL9OqMMCPZSjW9FmxUlyy-nGg"
     },
     {
       "id": 4,
       "name": "Kacper",
       "surname": "Kaczmarczyk",
-      "pesel": "01220212554"
+      "pesel": "01220212554",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkl4-OQlEmy7_BC2YchXW--5BxKhL9OqMMCPZSjW9FmxUlyy-nGg"
     },
     {
       "id": 5,
       "name": "Jan",
       "surname": "Marciniak",
-      "pesel": "69072308971"
+      "pesel": "69072308971",
+      "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/c4/c0/7c/c4c07cb7-7227-1718-5e12-ab04c0433a90/source/256x256bb.jpg"
     },
     {
       "id": 6,
       "name": "Jan",
       "surname": "Wilk",
-      "pesel": "04240716655"
+      "pesel": "04240716655",
+      "avatar": "https://vignette.wikia.nocookie.net/deathbattle/images/4/44/Meme_poker_face_%282%29.png/revision/latest?cb=20160510153427"
     },
     {
       "id": 8,
       "name": "Jakub",
       "surname": "Nowak",
-      "pesel": "75122409572"
+      "pesel": "75122409572",
+      "avatar": "https://apprecs.org/ios/images/app-icons/256/5b/1150347355.jpg"
     },
     {
       "id": 9,
       "name": "Anna",
       "surname": "Tomczyk",
-      "pesel": "61100419028"
+      "pesel": "61100419028",
+      "avatar": "https://at-cdn-s02.audiotool.com/2017/12/01/albums/ufa1M6zxu/cover256x256-2ddb0da8770949219122d923d515dc38.jpg"
     },
     {
       "id": 10,
       "name": "Mirosław",
       "surname": "Chojnacki",
-      "pesel": "28060414418"
+      "pesel": "28060414418",
+      "avatar": "https://static-s.aa-cdn.net/img/ios/1168023304/f573ef620d71fd4dc52c6d3dd0186bcc"
     },
     {
       "id": 12,
       "name": "Oliwia",
       "surname": "Kamińska",
-      "pesel": "90013114041"
+      "pesel": "90013114041",
+      "avatar": "https://vignette.wikia.nocookie.net/wiedzmin/images/8/88/G_SS_Vernon_Roche_Avatar.png/revision/latest?cb=20180223212439"
     },
     {
       "id": 13,
       "name": "Igor",
       "surname": "Marczak",
-      "pesel": "95073113270"
+      "pesel": "95073113270",
+      "avatar": "https://icdn.2cda.pl/obr/oryginalne/51372c20c72c3fd830e620fe55ffb339.jpg"
     },
     {
       "id": 14,
       "name": "Aleksandra",
       "surname": "Wróblewska",
-      "pesel": "57072512580"
+      "pesel": "57072512580",
+      "avatar": "https://vignette.wikia.nocookie.net/wiedzmin/images/1/1d/G_SS_Geralt_W1_Avatar.png/revision/latest?cb=20180223210235"
     },
     {
       "id": 16,
       "name": "Wiktoria",
       "surname": "Pawlik",
-      "pesel": "80011018065"
+      "pesel": "80011018065",
+      "avatar": "https://cdn-l-playgwent.cdprojektred.com/avatars/40110.jpg"
     },
     {
       "id": 17,
       "name": "Hanna",
       "surname": "Król",
-      "pesel": "76080508969"
+      "pesel": "76080508969",
+      "avatar": "https://media.rockstargames.com/rockstargames-newsite/img/global/downloads/buddyiconsconavatars/gtavc_anniversary_Lady_256x256.jpg"
     },
     {
       "id": 18,
       "name": "Oliwia",
       "surname": "Kucharska",
-      "pesel": "02322514388"
+      "pesel": "02322514388",
+      "avatar": "https://pbs.twimg.com/profile_images/420022709989277698/yg8zKkNK.png"
     },
     {
       "id": 20,
       "name": "Franciszek",
       "surname": "Dąbrowski",
-      "pesel": "73050410239"
+      "pesel": "73050410239",
+      "avatar": "https://pbs.twimg.com/profile_images/613094304094003200/5ACLHxhy_400x400.jpg"
     },
     {
       "id": 21,
       "name": "Adrian",
       "surname": "Piotrowski",
-      "pesel": "92121804450"
+      "pesel": "92121804450",
+      "avatar": "https://kodi.tv/sites/default/files/styles/medium_crop/public/addon_assets/plugin.video.nasa/icon/icon.png?itok=tNPvETn-"
     },
     {
       "id": 22,
       "name": "Marcelina",
       "surname": "Smolińska",
-      "pesel": "72082709704"
+      "pesel": "72082709704",
+      "avatar": "https://pbs.twimg.com/profile_images/378800000087761537/a309dcc588acd1415b8f86c35bdc667c.jpeg"
     },
     {
       "id": 23,
       "name": "Jakub",
       "surname": "Urbaniak",
-      "pesel": "71082910514"
+      "pesel": "71082910514",
+      "avatar": "https://pbs.twimg.com/profile_images/378800000755977159/5ee579210cf1103bbfd57e886377dfdb.jpeg"
     },
     {
       "id": 25,
       "name": "Olga",
       "surname": "Majewska",
-      "pesel": "46101805841"
+      "pesel": "46101805841",
+      "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/68/11/16/681116b0-b023-c347-3f43-3a702a893fa3/source/256x256bb.jpg"
     },
     {
       "id": 26,
       "name": "Jakub",
       "surname": "Ziółkowski",
-      "pesel": "05303114715"
+      "pesel": "05303114715",
+      "avatar": "https://cdn141.picsart.com/273862480025201.jpg?c256x256"
     },
     {
       "id": 27,
       "name": "Paweł",
       "surname": "Świderski",
-      "pesel": "18060818114"
+      "pesel": "18060818114",
+      "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/48/f3/02/48f30285-84cb-4af7-01fa-14944f112d7b/source/256x256bb.jpg"
     },
     {
       "id": 29,
       "name": "Anna",
       "surname": "Krawczyk",
-      "pesel": "56052812049"
+      "pesel": "56052812049",
+      "avatar": "https://news.artnet.com/app/news-upload/2015/11/1133593_942736-256x256.jpg"
     },
     {
       "id": 30,
       "name": "Hanna",
       "surname": "Głowacka",
-      "pesel": "58062112465"
+      "pesel": "58062112465",
+      "avatar": "https://news.artnet.com/app/news-upload/2015/09/c6e48da82c0e49d1a012971e652a5132-1560x2158-256x256.jpg"
     },
     {
       "id": 32,
       "name": "Natalia",
       "surname": "Majewska",
-      "pesel": "49121807648"
+      "pesel": "49121807648",
+      "avatar": "https://pbs.twimg.com/profile_images/706037950425894912/GjQUzACs_400x400.jpg"
     },
     {
       "id": 33,
       "name": "Kacper",
       "surname": "Rybak",
-      "pesel": "32080904433"
+      "pesel": "32080904433",
+      "avatar": "https://pbs.twimg.com/profile_images/606127088668672000/X2Y0BcXi_400x400.jpg"
     },
     {
       "id": 34,
@@ -154,25 +178,29 @@
       "id": 36,
       "name": "Tomasz",
       "surname": "Sadowski",
-      "pesel": "82102607310"
+      "pesel": "82102607310",
+      "avatar": "https://cdn6.aptoide.com/imgs/b/3/0/b3097ad06fa67382fc717ef0b3ac4821_icon.png?w=256"
     },
     {
       "id": 37,
       "name": "Adrian",
       "surname": "Duda",
-      "pesel": "35041700059"
+      "pesel": "35041700059",
+      "avatar": "https://78.media.tumblr.com/avatar_0157e5de971e_128.pnj"
     },
     {
       "id": 38,
       "name": "Jakub",
       "surname": "Marciniak",
-      "pesel": "64111416798"
+      "pesel": "64111416798",
+      "avatar": "https://memegenerator.net/img/images/300x300/14906013.jpg"
     },
     {
       "id": 39,
       "name": "Filip",
       "surname": "Mazur",
-      "pesel": "58102500373"
+      "pesel": "58102500373",
+      "avatar": "https://a.wattpad.com/useravatar/memenigga344.256.985025.jpg"
     }
   ]
 }
